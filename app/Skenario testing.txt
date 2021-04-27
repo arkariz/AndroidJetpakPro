@@ -1,0 +1,19 @@
+Menampilkan data movies
+    -Memastikan recycle view movie dalam keadaan tampil.
+    -Melakukan scroll pada recycle view movie ke posisi data terakhir.
+
+Menampilkan data detail movie
+    -Memberi tindakan klik pada data pertama di recycle view (judul movie A Star is Born).
+    -Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+    -Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
+
+Menampilkan data tv shows
+    -Memberi tindakan klik pada tab tv show
+    -Memastikan recycle view tv show dalam keadaan tampil.
+    -Melakukan scroll pada recycle view movie ke posisi data terakhir.
+
+Menampilkan data detail tv show
+    -Memberi tindakan klik pada tab tv show
+    -Memberi tindakan klik pada data pertama di recycle view (judul tv show Arrow).
+    -Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+    -Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
